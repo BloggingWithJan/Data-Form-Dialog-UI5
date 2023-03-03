@@ -1,0 +1,22 @@
+<mvc:View controllerName="sample.HowToSimpleFormDialog.controller.View1" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+	<Shell id="shell">
+		<App id="app">
+			<pages>
+				<Page id="page" title="CarrierCollection">
+					<content>
+						<List items="{ path: '/CarrierCollection' }">
+							<headerToolbar>
+								<Toolbar>
+									<Title text="CarrierCollection"/>
+									<ToolbarSpacer/>
+									<Button icon="sap-icon://add" press=".addNewCarrier"/>
+								</Toolbar>
+							</headerToolbar>
+							<StandardListItem title="{CARRNAME}" description="{URL}"/>
+						</List>
+					</content>
+				</Page>
+			</pages>
+		</App>
+	</Shell>
+</mvc:View>
