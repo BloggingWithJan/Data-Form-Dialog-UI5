@@ -1,2 +1,2 @@
 # HowToFormDialogInUI5
-Code snippet to implement form dialogs (data entry) quick and clean
+https://bloggingwithjan.com/an-recommendation-for-creating-data-form-dialogs-in-ui5/
