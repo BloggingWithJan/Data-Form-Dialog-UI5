@@ -1,2 +1,2 @@
 # HowToFormDialogInUI5
-https://bloggingwithjan.com/an-recommendation-for-creating-data-form-dialogs-in-ui5/
+https://janschulz.info/sap-ui5/an-recommendation-for-creating-data-form-dialogs-in-ui5/
